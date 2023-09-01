@@ -1,0 +1,26 @@
+.index1body{
+    background-color:darkolivegreen;
+}
+.gender{
+    width: 160px;
+}
+.div1{
+    border: 2px;
+    background-color:darkgrey;
+    width: 250px;
+}
+#about{
+    height: 30px;
+}
+.button{
+    width: 200px;
+    background-color: brown;
+}
+.index2body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRriZw5EWZfgnEOuT7ip4_5yFUPj9CDh115Kg&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+label{
+     margin-right: 70px;
+}
